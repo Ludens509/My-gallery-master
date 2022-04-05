@@ -98,8 +98,8 @@ img{
   /*************************/
 @media screen and (max-width:800px) {
   .gallery--container--img {
-    grid-template-columns:repeat(3,125px);
-    grid-template-rows: repeat(3,125px);
+    grid-template-columns:repeat(3,120px);
+    grid-template-rows: repeat(3,120px);
   }
   .profil-infos{
     margin: 20px 20px 10px 10px;
